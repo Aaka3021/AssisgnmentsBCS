@@ -1,1 +1,1 @@
-#Speech Emotion Recognition Project Under BCS,IITK.
+Speech Emotion Recognition Project Under BCS,IITK.
